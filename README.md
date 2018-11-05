@@ -1,1 +1,3 @@
 # Analytical-Data-Mining
+# 1.PCA :Reduced the dimensionality of the dataset without changing its corefunctionality by computing the covariance matrix, eigen values, eigen vectors and performing matrix operations andreduced the complexity of the data.
+# 2.Text Clustering using K-means: Derived insights about a particular product or theme by applying K-meansclustering on Amazon Reviews to find 10 most commented product
